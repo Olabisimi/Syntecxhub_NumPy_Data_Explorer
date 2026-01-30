@@ -1,4 +1,4 @@
-# Syntecxhub_Project_Name
+# Syntecxhub_NumPy_Data_Explorer
 # NumPy for Data Analysis 🧮
 
 ## Overview
